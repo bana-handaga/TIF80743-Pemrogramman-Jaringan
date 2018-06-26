@@ -5,9 +5,11 @@ Catatan kuliah semester GENAP 2017/2018
 # Bahan UAS
 open cheatsheet (A4 - 2 halaman)
 
+bawalah juga catatan tentang LINK FORLAP untuk NIM anda, [cari link forlap NIM ANDA di sini](https://forlap.ristekdikti.go.id/) 
+
 ## Email sender
 ## Email receiver
-## Web scrap
+## Web scrap 
 
 
 ================================================
