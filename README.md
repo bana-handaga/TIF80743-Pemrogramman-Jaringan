@@ -2,6 +2,15 @@
 Catatan kuliah semester GENAP 2017/2018
 
 
+# Bahan UAS
+open cheatsheet (A4 - 2 halaman)
+
+## Email sender
+## Email receiver
+## Web scrap
+
+
+================================================
 # Tugas-1: tgl 29 MAret 2018
 
 Membuat program untuk merancang LAN
